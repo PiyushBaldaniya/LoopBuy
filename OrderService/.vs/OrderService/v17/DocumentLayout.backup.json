@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\LoopBuy\\OrderService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|d:\\projects\\loopbuy\\orderservice\\orderservice\\controllers\\ordercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|d:\\projects\\loopbuy\\orderservice\\orderservice\\services\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|d:\\projects\\loopbuy\\orderservice\\orderservice\\services\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|d:\\projects\\loopbuy\\orderservice\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|d:\\projects\\loopbuy\\orderservice\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|d:\\projects\\loopbuy\\orderservice\\orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|d:\\projects\\loopbuy\\orderservice\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92076ED-295A-4181-9FCC-C37287FF82AD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController .cs",
+              "DocumentMoniker": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Controllers\\OrderController .cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController .cs",
+              "ToolTip": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Controllers\\OrderController .cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:51:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Services\\Implementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\Implementation\\OrderService.cs",
+              "ToolTip": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Services\\Implementation\\OrderService.cs",
+              "RelativeToolTip": "OrderService\\Services\\Implementation\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:50:32.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Services\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\Interface\\IOrderService.cs",
+              "ToolTip": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Services\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "OrderService\\Services\\Interface\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:50:08.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T22:49:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:48:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\Data\\OrderDbContext.cs",
+              "ToolTip": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderService\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:48:02.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "D:\\Projects\\LoopBuy\\OrderService\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:44:25.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

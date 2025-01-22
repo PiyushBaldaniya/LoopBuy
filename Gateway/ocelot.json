@@ -1,0 +1,26 @@
+[
+  {
+    "DownstreamPathTemplate": "/api/products",
+    "DownstreamScheme": "http",
+    "DownstreamHostAndPorts": [
+      {
+        "Host": "product_service",
+        "Port": 5000
+      }
+    ],
+    "UpstreamPathTemplate": "/api/products",
+    "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+  },
+  {
+    "DownstreamPathTemplate": "/api/orders",
+    "DownstreamScheme": "http",
+    "DownstreamHostAndPorts": [
+      {
+        "Host": "order_service",
+        "Port": 5000
+      }
+    ],
+    "UpstreamPathTemplate": "/api/orders",
+    "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+  }
+]
